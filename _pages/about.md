@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>14F.-2, No. 56, Daxue Rd.</p>
-    <p>East Dist., Taiwan</p>
+    <p>henrytsui000@gmail.com</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi there! I'm `Hao-Tang Tsui`, but feel free to call me Henry! 
+I'm deeply passionate about computer vision and constantly exploring new ways to push its boundaries. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I'm a full-time research assistant at the YOLO-Lab of [Academia Sinica](https://www.iis.sinica.edu.tw/en/index.html), working under the guidance of Professor [Mark Liao](https://scholar.google.com/citations?user=_IXt8boAAAAJ), where I'm focusing on YOLO-related [research](https://github.com/henrytsui000/yolov_rd) and re-releasing [YOLO](https://github.com/WongKinYiu/YOLO) under the MIT license.
+
+I recently earned my degree in electrical engineering from [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en/index), where I had the opportunity to work as a student researcher with Professors [Hong-Han Shuai](https://basiclab.lab.nycu.edu.tw/) and [Wen-Huang Cheng](https://www.csie.ntu.edu.tw/~wenhuang/) on exciting projects. I’m always eager to learn, innovate, and contribute to the ever-evolving world of AI and computer vision!

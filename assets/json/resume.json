@@ -25,8 +25,8 @@
   "publications": [
     {
       "name": "YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary",
-      "publisher": "under review",
-      "releaseDate": "2025-10-04",
+      "publisher": "ICLR",
+      "releaseDate": "2025-04-25",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "Proposed Retriever Dictionary to bring dataset information to YOLO improve real-time detection model with low computation cost and widely improved different detection model, DETR and RCNN, with flexibly designed."
     },
@@ -145,7 +145,21 @@
   ],
   "volunteer": [
     {
-      "organization": "IEEE International Conference on Robotics and Automation",
+      "organization": "The IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+      "position": "Reviewer",
+      "url": "https://example.com",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01"
+    },
+    {
+      "organization": "ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)",
+      "position": "Reviewer",
+      "url": "https://example.com",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01"
+    },
+    {
+      "organization": "The IEEE International Conference on Robotics and Automation",
       "position": "Reviewer",
       "url": "https://example.com",
       "startDate": "2024-09-01",
