@@ -10,3 +10,8 @@
 
 "ECCV":
   color: "#99a0f2"
+  url: https://www.ecva.net/index.php#about
+
+"ICLR":
+  color: "#5bb825"
+  url: https://iclr.cc/About

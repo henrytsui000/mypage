@@ -1,15 +1,16 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: POSE
+description: Pose Estimation Of Virtual Sync Exhibit System
+img: assets/img/projects/POSE.png
 importance: 2
-category: work
+category: Fun
 giscus_comments: true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
+It's easy to include images in a flexible 3-column grid format. {% cite tsui2024pose %}, {% cite tsui2024ikdp %}
 Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:

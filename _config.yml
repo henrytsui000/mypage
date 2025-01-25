@@ -199,6 +199,11 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  teachings:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
