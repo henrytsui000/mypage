@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My code [YOLO-MIT](https://github.com/MultimediaTechLab/YOLO-MIT) is now available on GitHub! :tada: :rocket:
+My code [YOLO-MIT](https://github.com/MultimediaTechLab/YOLO) is now available on GitHub! :tada: :rocket:
