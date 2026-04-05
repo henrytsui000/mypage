@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [TTSG](https://basiclab.github.io/TTSG/) was accepted by CVPR 2025 Workshop! :sparkles: :partying_face:
+Our paper [TTSG](https://basiclab.github.io/TTSG/) was accepted by CVPR 2026 Workshop! :sparkles: :partying_face:

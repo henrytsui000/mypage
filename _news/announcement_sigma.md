@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper [$\Sigma$ StaDy4D](https://sigma4reconstruct.github.io/) was accepted by CVPR 2025 Workshop! :sparkles: :partying_face:
+My paper [Σ StaDy4D](https://sigma4reconstruct.github.io/) was accepted by CVPR 2026 Workshop! :sparkles: :partying_face:
