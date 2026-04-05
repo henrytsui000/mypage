@@ -82,14 +82,7 @@
     {
       "name": "Machine learning",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computer Vision",
-        "Multimodality models",
-        "Self-Supervised learning",
-        "Vision-Language Model",
-        "Tracking",
-        "Object detection"
-      ]
+      "keywords": ["Computer Vision", "Multimodality models", "Self-Supervised learning", "Vision-Language Model", "Tracking", "Object detection"]
     }
   ],
   "awards": [
@@ -106,25 +99,13 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Latex",
-        "Shell script",
-        "HTML"
-      ]
+      "keywords": ["Python", "C/C++", "Latex", "Shell script", "HTML"]
     },
     {
       "name": "Frameworks & Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "PyTorch",
-        "OpenCV",
-        "NumPy",
-        "Pandas",
-        "Git"
-      ]
+      "keywords": ["PyTorch", "OpenCV", "NumPy", "Pandas", "Git"]
     }
   ],
   "certificates": [
