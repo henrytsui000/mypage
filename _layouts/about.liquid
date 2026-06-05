@@ -27,10 +27,20 @@ layout: default
           {% endif %}
           {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px)
       30vw, 95vw"{% endcapture %}
-          {%
-            include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
-            cache_bust=true
-          %}
+          <div class="profile-pic-hover">
+            {%
+              include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=page.profile.image
+              cache_bust=true
+            %}
+            {% if page.profile.image_hover %}
+              <img
+                src="{{ page.profile.image_hover | prepend: '/assets/img/' | relative_url }}"
+                class="profile-pic-hover-overlay {{ profile_image_class }}"
+                alt="{{ page.profile.image_hover }}"
+                loading="eager"
+              >
+            {% endif %}
+          </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>

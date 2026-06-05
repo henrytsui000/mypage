@@ -6,6 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
+  image_hover: 2025pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>henrytsu@andrew.cmu.edu</p>
